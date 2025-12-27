@@ -1,16 +1,38 @@
-# React + Vite
+# 🚀Crypto Sandbox: Crypto trading Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Crypto Sandbox** is a cryptocurrency trading simulator. It bridges the gap between theory and the high-stakes reality of live markets by providing a **zero-risk, high-consequence** environment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Getting Started
 
-## React Compiler
+### Prerequisites
+- Node.js v16 or higher
+- npm or yarn
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Installation
 
-## Expanding the ESLint configuration
+1. **Clone the repository**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+        git clone git@github.com:SP652/CryptoSandBoX.git
+        cd cryptosandbox
+
+2. **Install dependencies**
+
+        npm install
+
+3. **Start the development server**
+
+        npm run dev
+
+---
+
+## 📷 Snapshots
+![Image_1](./public/image1.png)
+![Image_2](./public/image2.png)
+![Image_3](./public/image3.png)
+
+---
+
+### ⚠️ Disclaimer
+Simulation only. No real trading or financial advice.
